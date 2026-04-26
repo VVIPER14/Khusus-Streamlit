@@ -5,7 +5,7 @@ Dashboard dibuat menggunakan **Streamlit** untuk menyampaikan hasil analisis sec
 
 ---
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 
 Dashboard ini dibuat untuk menganalisis performa platform e-commerce berdasarkan data transaksi yang telah dibersihkan. Analisis dilakukan untuk memahami pola pertumbuhan bisnis, perilaku pelanggan, serta preferensi metode pembayaran.
 
@@ -16,7 +16,7 @@ Dashboard ini dibuat untuk menganalisis performa platform e-commerce berdasarkan
 
 ---
 
-## 📁 Struktur Folder
+## Struktur Folder
 
 ```
 Submission/
@@ -34,7 +34,7 @@ Submission/
 
 ---
 
-## 📊 Ringkasan Insight
+## Ringkasan Insight
 
 ### Gathering Data
 Dataset terdiri dari dua file CSV hasil merge dari dataset e-commerce Brazil (Olist):
@@ -58,7 +58,7 @@ Dataset terdiri dari dua file CSV hasil merge dari dataset e-commerce Brazil (Ol
 
 ---
 
-## 🚀 Cara Menjalankan Dashboard (Local)
+## Cara Menjalankan Dashboard (Local)
 
 ### 1. Clone Repository
 ```bash
@@ -85,13 +85,13 @@ http://localhost:8501
 
 ---
 
-## 🌐 Link Dashboard Online
+## Link Dashboard Online
 
 https://khusus-app-gttwtjers8mhhyjpnvreea.streamlit.app/
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```
 streamlit==1.41.0
@@ -107,4 +107,4 @@ plotly==5.24.1
 |---|---|
 | **Nama** | Suroso Aditya Wibowo |
 | **ID Dicoding** | CDCC184D6Y1024 |
-| **Email** | *(isi email kamu)* |
+| **Email** | *	CDCC184D6Y1024@student.devacademy.id* |
