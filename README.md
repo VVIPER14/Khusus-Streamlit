@@ -22,7 +22,10 @@ Dashboard ini dibuat untuk menganalisis performa platform e-commerce berdasarkan
 Submission/
 ├── Projek.ipynb                          # Jupyter Notebook analisis data
 ├── requirements.txt                      # Library yang digunakan
-├── README.md                             # Dokumentasi proyek
+├── README.md                             # Dokumentasi proyek dan cara menjalankan dashboard
+├── data
+    ├── order_payments_dataset.csv
+    ├──orders_dataset.csv
 └── dashboard/
     ├── Dashboard.py                      # File utama Streamlit
     ├── orders_clean.csv                  # Dataset orders (sudah dibersihkan)
@@ -59,7 +62,7 @@ Dataset terdiri dari dua file CSV hasil merge dari dataset e-commerce Brazil (Ol
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/vviper14/fundamental-analisis-data.git
+git clone https://github.com/VVIPER14/Khusus-Streamlit.git
 cd fundamental-analisis-data
 ```
 
